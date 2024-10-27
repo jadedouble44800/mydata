@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+/* #navbar .navbar-brand{
+background-color: aqua;
+} */
+#nav-bar .nav-item1{
+    
+    margin-left: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-color: aqua;
+}
